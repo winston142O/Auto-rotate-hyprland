@@ -7,7 +7,7 @@ This is meant to be used with 2-in-1 laptop devices that detect these changes.
 
 # Installation/How to use
 
-First, download the package used to detect accelerometer changes:
+First, download the package used to detect accelerometer changes with your preferred package manager:
 
 ```bash
 sudo pacman -S iio-sensor-proxy
